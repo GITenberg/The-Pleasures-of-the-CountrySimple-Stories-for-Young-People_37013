@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '8379'
     url: http://www.gutenberg.org/2009/agents/8379
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37013#The-Pleasures-of-the-CountrySimple-Stories-for-Young-People
 gutenberg_issued: '2011-08-08'
 gutenberg_type: Text
 identifiers:

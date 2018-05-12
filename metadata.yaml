@@ -1,0 +1,38 @@
+_repo: The-Pleasures-of-the-CountrySimple-Stories-for-Young-People_37013
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gilbert, John
+    alias: Gilbert, Sir John
+    birthdate: 1817
+    deathdate: 1897
+    gutenberg_agent_id: '31359'
+    url: http://www.gutenberg.org/2009/agents/31359
+covers:
+- cover_type: archival
+  image_path: 37013-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Myrtle, Harriet
+    aliases:
+    - Miller, Lydia Falconer Fraser
+    - Miller, Mrs. Hugh
+    - Myrtle, H. (Harriet)
+    deathdate: 1876
+    gutenberg_agent_id: '8379'
+    url: http://www.gutenberg.org/2009/agents/8379
+description: ''
+gutenberg_issued: '2011-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37013'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Country life -- England -- Juvenile fiction'
+title: 'The Pleasures of the Country: Simple Stories for Young People'
+url: http://www.gutenberg.org/ebooks/37013
